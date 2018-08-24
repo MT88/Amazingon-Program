@@ -4,11 +4,11 @@ into one place.*/
 
 //  List of operations that currently take place for business are as follows:
 
-//  Sourcing and Ordering of Products
+//  Sourcing and Ordering of Products -----------------------------------------------------------** 2
 
-//  Listing/Uploading of products on online stores (Amazon/Ebay/Hopefully my own site)
+//  Listing/Uploading of products on online stores (Amazon/Ebay/Hopefully my own site) -----------------** 3
 
-//  Inventory tracking for Amazon with Inventory Lab. Ebay has an Excel sheet.
+//  Inventory tracking for Amazon with Inventory Lab. Ebay has an Excel sheet.  -------------------------** 1
 
 //  Creating of shipments for Amazon. Inventory Lab generates a file and uploads it for Amazon.
 
